@@ -1,0 +1,15 @@
+#gameDiv{
+   /*   position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -400px;
+  margin-left: -400px;*/
+    /* The CSS Grid might work on more browsers and different desktop devices */
+      display: grid;
+            justify-content: center;
+            align-content: center;
+}
+
+body {
+    background-color: ghostwhite;
+}
